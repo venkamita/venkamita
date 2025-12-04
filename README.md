@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 Skills & Interests
-- **Languages:** Python (web scraping with BeautifulSoup4, data analysis), C, HTML, CSS, JavaScript
+- **Languages:** Python (web scraping with BeautifulSoup4, data analysis), C, HTML, CSS, JavaScript,MERN stack
 - **Currently Learning:** Data structures and algorithms (the hard way!), advanced data analysis
 - **Aspiring:** Data Scientist / Data Analyst
 
