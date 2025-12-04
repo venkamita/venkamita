@@ -37,11 +37,12 @@
 
 ## 📝 GitHub Stats
 
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkamita&layout=compact&theme=default)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venkamita&show_icons=true&count_private=true&hide=prs&theme=default" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkamita&layout=compact&theme=default" />
+</div>
 
-<!-- Commits Done -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkamita&show_icons=true&count_private=true&hide=prs&theme=default)
 
 ---
 
